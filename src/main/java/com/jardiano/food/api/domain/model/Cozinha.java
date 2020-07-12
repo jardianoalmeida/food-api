@@ -3,7 +3,7 @@ package com.jardiano.food.api.domain.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "tab_cozinhas")
+@Table(name = "tb_cozinha")
 public class Cozinha {
 
     @Id
